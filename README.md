@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Vite](https://github.com/vitejs/vite.git).
 
-## Available Scripts
+## Available Script
 
 In the project directory, you can run:
 
